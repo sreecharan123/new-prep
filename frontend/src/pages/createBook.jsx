@@ -75,5 +75,7 @@ const CreateBooks = () => {
     </div>
   );
 }
+//Books page component
+//This component will be used to create a new book in the database.
 
 export default CreateBooks
